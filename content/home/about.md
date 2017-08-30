@@ -12,18 +12,20 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "AI/ML",
     "Computer Architecture",
     "Heterogenous Computing",
-	"AI/ML",
+    "Parallel Programming"
     "VLSI Design",
-	"Genomics"
+    "Genomics"
   ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
-#  course = "Joining Fall'17 MS in Computer Engineering"
+#  Title = "MS in Electronics and Computer Engineer"
 #  institution = "University of Illinios-Urbana Champiagn"
 #  year = 2019 (expected)
+#  Courses = "ECE408, ECE448, ECE511"
 
 [[education.courses]]
   course = "BE in Electronics and Communication Engineering"
@@ -35,5 +37,4 @@ weight = 1
 
 # Biography
 
-Vikram Sharma is an employee of Intel Corporation and volunteers at IEEE - Bangalore Section. He is interested in research of hardware designed approach to make ML/AI algorithms more efficient, less power
-hungry, reliable and democratize AI in every devices everywhere in our lives. I enjoy working at the intersections of SW/HW stack across ML/AI, computer architecture, VLSI design and Genomics.
+Vikram Sharma is an Research Assistant at IMPACT research group headed by Prof Wen-Mei, Hwu. Prior to this, he was an employee of Intel Corporation and LSI Corporation(Currently called - Broadcom). His research interests spans over hardware designed approach to make ML/AI algorithms more efficient, less power hungry, reliable and democratize AI in every devices everywhere in our lives. He loves working at the intersections of SW/HW stack across ML/AI, computer architecture, VLSI design and Genomics.
