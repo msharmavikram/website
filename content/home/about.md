@@ -15,17 +15,16 @@ weight = 1
     "AI/ML",
     "Computer Architecture",
     "Heterogenous Computing",
-    "Parallel Programming",
     "Near Memory Computing",
+    "Parallel Programming",
     "Genomics"
   ]
 
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
-#  Title = "MS in Electronics and Computer Engineer"
-#  institution = "University of Illinios-Urbana Champiagn"
-#  year = 2019 (expected)
-#  Courses = "ECE408, ECE448, ECE511"
+[[education.courses]]
+  course = "Masters in Electrical and Computer Engineering"
+  institution = "University of Illinios-Urbana Champiagn"
+  year = 2019
 
 [[education.courses]]
   course = "BE in Electronics and Communication Engineering"
