@@ -15,8 +15,8 @@ weight = 1
     "AI/ML",
     "Computer Architecture",
     "Heterogenous Computing",
-    "Parallel Programming"
-    "VLSI Design",
+    "Parallel Programming",
+    "Near Memory Computing",
     "Genomics"
   ]
 
@@ -37,4 +37,4 @@ weight = 1
 
 # Biography
 
-Vikram Sharma is an Research Assistant at IMPACT research group headed by Prof Wen-Mei, Hwu. Prior to this, he was an employee of Intel Corporation and LSI Corporation(Currently called - Broadcom). His research interests spans over hardware designed approach to make ML/AI algorithms more efficient, less power hungry, reliable and democratize AI in every devices everywhere in our lives. He loves working at the intersections of SW/HW stack across ML/AI, computer architecture, VLSI design and Genomics.
+Vikram Sharma is a Research Assistant at IMPACT research group and guided by Prof Wen-Mei, Hwu. Prior to this, he was an employee of Intel Corporation and LSI Corporation(Currently called - Broadcom). His research interests spans over hardware designed approach to make ML/AI algorithms more efficient, less power hungry, reliable and democratize AI in every devices everywhere in our lives. He loves working at the intersections of SW/HW stack across ML/AI, computer architecture, Near Memory computing and Genomics.

@@ -20,19 +20,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Vikram Sharma Mailthody"
-  role = "IP Design Engineer"
-  #role = "Joining Fall'17 as Graduate Research Assistant at UIUC - ECE Department."
-  #role = ""
-  organization = "Intel Corporation"
-  #organization = "University of Illinois at Urbana–Champaign"
-  #organization_url = "http://www.ece.illinois.edu/"
-  organization_url = "http://www.intel.com"
+  role = "Research Assistant"
+  organization = "University of Illinois at Urbana–Champaign"
+  organization_url = "impact.crhc.illinois.edu"
   avatar = "portrait.jpg"
-  #email = "test@example.org"
-  email = "mailthody@ieee.org"
-  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "vsm2@illinois.edu"
+  address = "227, CSL, 1304 Main St, Urbana, 61801, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "888 888 88 88"
+  phone = "+1-217-648-8986"
   skype = "msharmavikram"
   #telegram = ""
 
@@ -130,7 +125,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:mailthody@ieee.org"
+    link = "mailto:msharmavikram@gmail.com"
 
   [[params.social]]
     icon = "twitter"
